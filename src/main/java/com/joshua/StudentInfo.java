@@ -2,7 +2,7 @@
         public static void main(String[] args) {
         String studentName = "Adeyemi joshua";
         int studentAge = 17;
-        double studentHeight = 1.85; // in meters
+        double studentHeight = 1.85;
         boolean isRegistered = true;
 
         System.out.println("Student Name: " + studentName);
